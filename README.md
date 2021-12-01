@@ -25,11 +25,12 @@ Spring Gumball Secrets
 Spring Gumball Cluster
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/clusters.png)
 
+Spring Gumball Release 2.1
+![images](https://github.com/victorm648/spring-gumball/blob/main/images/release.png)
+
 Spring Gumball CD
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/cd.png)
 
-Spring Gumball Release 2.1
-![images](https://github.com/victorm648/spring-gumball/blob/main/images/release.png)
 
 Spring Gumball All Workflows
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/allworkflows.png)
