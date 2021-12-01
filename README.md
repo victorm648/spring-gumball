@@ -13,18 +13,17 @@ Spring Gumball CI successs
 
 # Part 2 - Screenshots Spring-Gumball CD
 
-Spring Gumball Cluster
-![images](https://github.com/victorm648/spring-gumball/blob/main/images/clusters.png)
-
 Spring Gumball google.yaml created by CD
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/google2.png)
-
 
 Spring Gumball Service Key Created
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/servicekey.png)
 
 Spring Gumball Secrets
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/secrets.png)
+
+Spring Gumball Cluster
+![images](https://github.com/victorm648/spring-gumball/blob/main/images/clusters.png)
 
 Spring Gumball CD
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/cd.png)
