@@ -2,7 +2,7 @@
 
 # Part 1 - Screenshots Spring-Gumball CI
 
-Spring Gumball on it's own seperate repo
+Spring Gumball on it's own separate repo
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/repo.png)
 
 Spring Gumball being built with CI
