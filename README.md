@@ -16,7 +16,7 @@ Spring Gumball CI successs
 Spring Gumball Cluster
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/clusters.png)
 
-Spring Gumball google.yaml
+Spring Gumball google.yaml created by CD
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/google.png)
 
 Spring Gumball Secrets
