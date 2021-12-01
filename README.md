@@ -19,11 +19,12 @@ Spring Gumball Cluster
 Spring Gumball google.yaml created by CD
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/google2.png)
 
-Spring Gumball Secrets
-![images](https://github.com/victorm648/spring-gumball/blob/main/images/secrets.png)
 
 Spring Gumball Service Key Created
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/servicekey.png)
+
+Spring Gumball Secrets
+![images](https://github.com/victorm648/spring-gumball/blob/main/images/secrets.png)
 
 Spring Gumball CD
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/cd.png)
