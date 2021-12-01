@@ -17,7 +17,7 @@ Spring Gumball Cluster
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/clusters.png)
 
 Spring Gumball google.yaml created by CD
-![images](https://github.com/victorm648/spring-gumball/blob/main/images/google.png)
+![images](https://github.com/victorm648/spring-gumball/blob/main/images/google2.png)
 
 Spring Gumball Secrets
 ![images](https://github.com/victorm648/spring-gumball/blob/main/images/secrets.png)
